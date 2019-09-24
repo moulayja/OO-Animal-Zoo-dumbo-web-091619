@@ -5,6 +5,6 @@ require 'pry'
 
 #Test your code here
 
-
+queens_zoo =Zoo.new("Queens-Zoo", "Queens")
 binding.pry
 puts "done"
